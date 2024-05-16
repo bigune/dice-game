@@ -89,3 +89,5 @@ document.querySelector(".btn-hold").addEventListener("click", function () {
 
 //Eventlisteners for new game button
 document.querySelector(".btn-new").addEventListener("click", initGame);
+
+//testing git alias
